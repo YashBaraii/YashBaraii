@@ -1,3 +1,4 @@
+![logo](https://github.com/YashBaraii/YashBaraii/blob/main/bg.png)
 # 💫 About Me:
 🧑🏻‍🎓 Pursuing a Diploma in AI/ML.<br>🌟 Proficient in Python, C, C++, Web Development.<br>🔨 Developed a Habit Tracker app, QuickPicks shopping site, and more.<br>🎓 Learning JAVA, Scikit Learn<br>🎯 Build a strong foundation in AI/ML.<br>⚡ Eat-Sleep-Code. Repeat.
 
