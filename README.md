@@ -1,4 +1,5 @@
 ![logo](https://github.com/YashBaraii/YashBaraii/blob/main/bgv3.png)
+
 # 💫 About Me:
 🧑🏻‍🎓 Pursuing a Diploma in AI/ML.<br>🌟 Proficient in Python, C, C++, Web Development.<br>🔨 Developed a Habit Tracker app, QuickPicks shopping site, and more.<br>🎓 Learning JAVA, Scikit Learn<br>🎯 Build a strong foundation in AI/ML.<br>⚡ Eat-Sleep-Code. Repeat.
 
@@ -25,3 +26,5 @@ public class In_Life {
     </pre>
   </div>
 </div>
+
+![git](https://res.cloudinary.com/dmgjftmqa/image/upload/v1760638151/ezgif-59dba009ce48c7_o6mgs4.gif)
